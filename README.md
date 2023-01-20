@@ -18,15 +18,13 @@
 3. [UI](#ui)
 4. [Controls](#controls)
 5. [Game Jam Minimal Viable Product](#game-jam-minimal-viable-product)
-
-Other documents:
-
-1. [Game concept](game_concept.md)
-2. [Wiki](development_team.md)
-    1. [Magic Orbs](wiki/magic_orbs.md)
-    2. [Spells](wiki/spells.md)
-    3. [Items](wiki/items.md)
-    4. [Buildings and Rooms](wiki/buildings.md)
+6. [Other Documents](#other-documents)
+    1. [Game concept](game_concept.md)
+    2. [Wiki](development_team.md)
+        1. [Magic Orbs](wiki/magic_orbs.md)
+        2. [Spells](wiki/spells.md)
+        3. [Items](wiki/items.md)
+        4. [Buildings and Rooms](wiki/buildings.md)
 
 ## Introduction
 
@@ -128,3 +126,12 @@ Player will be able to order specific orbs from building, but that will require 
 
 This mode will be mostly used as a playground for testing and experimenting with magic and spells.
 So it would be nice to have more different orbs and spells available that to have character.
+
+## Other documents
+
+1. [Game concept](game_concept.md)
+2. [Wiki](development_team.md)
+    1. [Magic Orbs](wiki/magic_orbs.md)
+    2. [Spells](wiki/spells.md)
+    3. [Items](wiki/items.md)
+    4. [Buildings and Rooms](wiki/buildings.md)
